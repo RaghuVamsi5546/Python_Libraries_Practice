@@ -3,5 +3,5 @@ This repo is for learning & exploring Python libraries. Feel free to explore and
 
 # Contributions welcome:
 
-. Fork & Pull Requests
-. Code improvements & additions
+- Fork & Pull Requests<br/>
+- Code improvements & additions
