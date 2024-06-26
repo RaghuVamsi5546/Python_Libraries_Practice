@@ -1,7 +1,7 @@
-# Python Libraries Practice
+### Python Libraries Practice
 This repo is for learning & exploring Python libraries. Feel free to explore and adapt the code!
 
-# Contributions welcome:
+### Contributions welcome:
 
 - Fork & Pull Requests<br/>
 - Code improvements & additions
